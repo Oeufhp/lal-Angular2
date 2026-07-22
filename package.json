@@ -13,9 +13,9 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^13.3.3",
-    "@angular/common": "^19.2.16",
-    "@angular/compiler": "^13.3.3",
-    "@angular/core": "^13.3.3",
+    "@angular/common": "^20.3.25",
+    "@angular/compiler": "^20.3.25",
+    "@angular/core": "^20.3.25",
     "@angular/forms": "^13.3.3",
     "@angular/http": "^7.2.16",
     "@angular/platform-browser": "^13.3.3",
