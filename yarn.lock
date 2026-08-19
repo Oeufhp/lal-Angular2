@@ -219,10 +219,10 @@
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-9.0.0.tgz#87e0bef4c369b6cadae07e3a4295778fc93799d5"
   integrity sha512-ctjwuntPfZZT2mNj2NDIVu51t9cvbhl/16epc5xEwyzyDt76pX9UgwvY+MbXrf/C/FWwdtmNtfP698BKI+9leQ==
 
-"@angular/compiler@^22.0.1":
-  version "22.0.1"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-22.0.1.tgz#c82039d81b5c390eba2b42ef1940c8ecac3c0941"
-  integrity sha512-J8lcmYXJCGZn1+CHx3LSgq6rtS5Efc1/Nafcd/v8VZN2NrsFIkIlTbnAIUxcwHwYxzZs4X5CGfX+5ZIB4X9rUw==
+"@angular/compiler@^22.0.2":
+  version "22.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-22.0.2.tgz#725cfdeb5cfd80324604a4c5b4c0bad143f56a9a"
+  integrity sha512-5G+h/4/iCfqdTBsSgjB46Oe4oC6jXutCpFc5JYWRpnJWsbp3UfwRhwGVWIV1DBPnR8H/3QZzteRP1jINiH5+hg==
   dependencies:
     tslib "^2.3.0"
 
@@ -231,10 +231,10 @@
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-9.0.0.tgz#227dc53e1ac81824f998c6e76000b7efc522641e"
   integrity sha512-6Pxgsrf0qF9iFFqmIcWmjJGkkCaCm6V5QNnxMy2KloO3SDq6QuMVRbN9RtC8Urmo25LP+eZ6ZgYqFYpdD8Hd9w==
 
-"@angular/core@^21.2.17":
-  version "21.2.17"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-21.2.17.tgz#cbed1509afd41422ef09539be0fb5cf5755e2b18"
-  integrity sha512-wYHpwIdnUnjQFOJJNqRcGx7LS3u64jT+R9L0TnMR/ViBM9dQgGYImlSikkftg2yrFCNo5aKRxhG2LLskQurVdg==
+"@angular/core@^21.2.18":
+  version "21.2.18"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-21.2.18.tgz#c8986994ed9eb66d13c1e3875c613bc87581225a"
+  integrity sha512-AG4bb6GU0+qp+vVBjc/IhSPjgcRX8QsCb8jzN8dDyhnjsyuuG/LlIiU0l6n65BI9SGKE9m6TfsJ1ObkkAiE5KQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -461,9 +461,9 @@
   integrity sha512-GmzA9ckNokPypTg10pgpeHNQe7ph+iIKKmhKu3Ob9ANkswreCx7R3cKmY781K8QK3AqVL3xVh9A42JvIAbkkSA==
 
 "@hono/node-server@^1.19.9":
-  version "1.19.10"
-  resolved "https://registry.yarnpkg.com/@hono/node-server/-/node-server-1.19.10.tgz#e230fbb7fb31891cafc653d01deee03f437dd66b"
-  integrity sha512-hZ7nOssGqRgyV3FVVQdfi+U4q02uB23bpnYpdvNXkYTRRyWx84b7yf1ans+dnJ/7h41sGL3CeQTfO+ZGxuO+Iw==
+  version "1.19.17"
+  resolved "https://registry.yarnpkg.com/@hono/node-server/-/node-server-1.19.17.tgz#99bd8625cdbae82652a135c71363cd6322fae483"
+  integrity sha512-dSneS5qhiauZWGDCeK4o695Xd9nUNjviSZCMQrj10eetr8Uln1ucn6bbphOM6UynAMMtNIzZNSpL9vnASJwrPQ==
 
 "@inquirer/ansi@^1.0.2":
   version "1.0.2"
