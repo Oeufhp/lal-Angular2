@@ -219,10 +219,10 @@
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-9.0.0.tgz#87e0bef4c369b6cadae07e3a4295778fc93799d5"
   integrity sha512-ctjwuntPfZZT2mNj2NDIVu51t9cvbhl/16epc5xEwyzyDt76pX9UgwvY+MbXrf/C/FWwdtmNtfP698BKI+9leQ==
 
-"@angular/compiler@^22.0.3":
-  version "22.0.3"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-22.0.3.tgz#cae46050d6c649ea953371d9a6f62bc570e3ec7b"
-  integrity sha512-tZYq4RYYGCT6enI3wlOZsG81VJkR9wGhf5kexhvffCiMHfcA9IACHu7gjvtZPZlibeKs1PY5TMoOG3/rUqJH6Q==
+"@angular/compiler@^22.0.4":
+  version "22.0.4"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-22.0.4.tgz#7d850852a2da39c95381bd83a277683a075f99d7"
+  integrity sha512-PvbsPr3d0OHm90vgq1v+0oPP/oHNuCcZQAhhD3fhHlx3DTxf6nkjUqBulzdJ6d5QwDsy378pwf8+dpGquFzbGQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -231,10 +231,10 @@
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-9.0.0.tgz#227dc53e1ac81824f998c6e76000b7efc522641e"
   integrity sha512-6Pxgsrf0qF9iFFqmIcWmjJGkkCaCm6V5QNnxMy2KloO3SDq6QuMVRbN9RtC8Urmo25LP+eZ6ZgYqFYpdD8Hd9w==
 
-"@angular/core@^21.2.19":
-  version "21.2.19"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-21.2.19.tgz#34273628395bd05988b71403a4c296f04fdb43a7"
-  integrity sha512-PVoXD1kBexOJLkFzKx2zBY/0oZJXGru0eGn2hu0q5n3vkZlYsR1yRolfGenK1gZE48Qibiw/ttg/X/pAIPEZGg==
+"@angular/core@^21.2.20":
+  version "21.2.20"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-21.2.20.tgz#f17e2a2364af615ae008a09a4e3678efb855d38d"
+  integrity sha512-4yp6EKd1VJHUOiKmd3+s9UUXtBGsdO/IKewABuPXZ+UdrXPQSRMhgnMt49yqgz29XS7jSHyq6nZgt0CXOVEDZg==
   dependencies:
     tslib "^2.3.0"
 
@@ -2638,9 +2638,9 @@ js-tokens@^4.0.0:
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
 js-yaml@^3.13.1:
-  version "3.14.2"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.2.tgz#77485ce1dd7f33c061fd1b16ecea23b55fcb04b0"
-  integrity sha512-PMSmkqxr106Xa156c2M265Z+FTrPl+oxd/rgOQy2tijQeK5TxQ43psO1ZCwhVOSdnn+RzkzlRz/eY4BgJBYVpg==
+  version "3.15.2"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.15.2.tgz#3f83823ac6be17f570f23b2ecdef3777ff5ea364"
+  integrity sha512-6EuL879VkRA+1Cz578mKMiKvjPNEuk6+r1JaFzoSWejZmtf7xWbIyw1e3KkxlkzTIt9Taw6JBhEppG7utc1P+w==
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
