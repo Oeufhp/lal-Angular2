@@ -14,19 +14,19 @@
   "dependencies": {
     "@angular/animations": "^13.3.3",
     "@angular/common": "^20.3.28",
-    "@angular/compiler": "^22.0.6",
-    "@angular/core": "^21.2.22",
+    "@angular/compiler": "^22.0.7",
+    "@angular/core": "^21.2.23",
     "@angular/forms": "^13.3.3",
     "@angular/http": "^7.2.16",
     "@angular/platform-browser": "^13.3.3",
     "@angular/platform-browser-dynamic": "^13.3.3",
-    "@angular/router": "^13.3.3",
+    "@angular/router": "^20.3.32",
     "core-js": "^3.22.0",
     "rxjs": "^7.5.5",
     "zone.js": "^0.11.5"
   },
   "devDependencies": {
-    "@angular/cli": "^21.1.4",
+    "@angular/cli": "^22.2.1",
     "@angular/compiler-cli": "^13.3.3",
     "@angular/language-service": "^13.3.3",
     "@types/jasmine": "^4.0.3",
